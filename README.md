@@ -1,4 +1,4 @@
-# 👋 nabin-skilluplabs GitHub Repository 👨‍💻
+# 👋 GitHub Repository 👨‍💻
 
 Welcome to my GitHub space! Here's where the code magic happens! ✨
 
@@ -33,10 +33,5 @@ Let's connect and sprinkle some emoji dust on our collaboration! 🌐💬
 ## ☕ Support
 
 If my projects light up your code journey, consider fueling my caffeine addiction! ☕️
-[Link to Buy Me a Coffee]
-
-## 📄 License
-
-This project is licensed under the [License Name] - see the [LICENSE](LICENSE) file for details.
 
 Thanks for dropping by my cosmic coding universe! 🚀✨
