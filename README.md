@@ -1,4 +1,4 @@
-# 👋 Weleome to Skillup Labs 👨‍💻
+# 👋 Welcome to Skillup Labs 👨‍💻
 
 Welcome to my GitHub space! Here's where the code magic happens! ✨
 
