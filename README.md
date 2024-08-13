@@ -1,6 +1,6 @@
 # Nabin Singh - Full Stack Engineer
 
-Welcome to my GitHub profile! I'm Nabin Singh, a seasoned Full Stack Engineer with over 12 years of professional experience in designing and developing world-class web applications. My mission is to contribute to the next generation of full-stack developers by sharing my knowledge and expertise.
+** Welcome to my GitHub profile! **  I'm Nabin Singh, a seasoned Full Stack Engineer with over 12 years of professional experience in designing and developing world-class web applications. My mission is to contribute to the next generation of full-stack developers by sharing my knowledge and expertise.
 
 ## 🔧 Skills and Expertise
 
