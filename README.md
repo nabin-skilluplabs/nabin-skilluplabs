@@ -1,37 +1,41 @@
-# 👋 Welcome to Skillup Labs 👨‍💻
+# Nabin Singh - Full Stack Engineer
 
-Welcome to my GitHub space! Here's where the code magic happens! ✨
+Welcome to my GitHub profile! I'm Nabin Singh, a seasoned Full Stack Engineer with over 12 years of professional experience in designing and developing world-class web applications. My mission is to contribute to the next generation of full-stack developers by sharing my knowledge and expertise.
 
-## 🚀 About Me
+## 🔧 Skills and Expertise
 
-I'm Nabin Singh, a passionate coder and explorer based in Sydney. I breathe 💻 code and dream in algorithms. Outside the terminal, I love 🎸 playing guitar and ☕ sipping on a cup of coffee.
+- **Frontend Development:** React.js, Angular.js, HTML, CSS, Redux, Ember.js, GraphQL
+- **Backend Development:** Node.js, Phoenix, Postgres, DynamoDB, AWS Lambda
+- **Database Management:** PostgreSQL, DynamoDB
+- **Cloud Infrastructure:** AWS (CI/CD pipelines, deployment, and cloud infrastructure)
+- **Testing and Automation:** Jest, Puppeteer, Mocha, Integration & Unit Testing
+- **Project Management:** IT Project Coordination, End-to-End Solution Design, Emerging Technologies Research
+- **Mentorship:** Guiding and mentoring junior engineers, setting development best practices
 
-## 🌟 Projects
+## 📚 Experience
 
-Explore the galaxies of my current projects:
+### Bluestone Home Loans - Full Stack Engineer
+*May 2022 - Present | Sydney, NSW, Australia*
 
-1. **🚀 Personal Portfolio**
-   - Description: Briefly describe the purpose and goals of the project.
-   - Technologies: List the technologies, languages, and frameworks used.
-   - [Link to Project 1]
+- Leading the design, development, and deployment of full-stack applications.
+- Working with Node.js, React.js, and various other tools to create scalable solutions.
 
-2. **🌈 Netflix**
-   - Description: Briefly describe the purpose and goals of the project.
-   - Technologies: List the technologies, languages, and frameworks used.
-   - [Link to Project 2]
+### Expert Education & Visa Services - IT Project Coordinator
+*Nov 2019 - Apr 2022 | Sydney, Australia*
 
-Feel free to open issues, contribute, and star ⭐ the repos if you find them intriguing!
+- Designed and implemented software solutions, created front-end applications, and developed secure APIs.
+- Managed cloud infrastructure on AWS and automated business processes.
 
-## 📬 Contact
+### Nod - Full Stack Engineer
+*Dec 2018 - Nov 2019 | Sydney, Australia*
 
-- 📧 Email: info@skilluplabs.com.au
-- 🐦 Twitter: @skilluplabs
-- 🔗 LinkedIn: linkedlin.com/skilluplabs
+- Developed front-end and back-end components using modern frameworks and ensured code quality through rigorous testing.
 
-Let's connect and sprinkle some emoji dust on our collaboration! 🌐💬
+### REFFIND - Full Stack Software Engineer
+*Jun 2018 - Dec 2018 | Sydney, Australia*
 
-## ☕ Support
+- Worked on an employee recognition platform, developing backend APIs and mobile applications.
 
-If my projects light up your code journey, consider fueling my caffeine addiction! ☕️
+## 🎓 Education
 
-Thanks for dropping by my cosmic coding universe! 🚀✨
+- **Master of Information Technology (Software Development)** - Charles Sturt University
