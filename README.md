@@ -1,16 +1,83 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Skillup Labs 👋</h1>
 
-### My name is Skillup Labs
+<p align="center">
+  A passionate Full Stack Developer from Sydney, Australia | JS Developer
+</p>
 
-**nabin-skilluplabs/nabin-skilluplabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://your-portfolio-link.com">🌐 Portfolio</a> •
+  <a href="mailto:info@nabinsingh.me">📧 Email</a> •
+  <a href="https://www.linkedin.com/company/skillup-labs">💼 LinkedIn</a> •
+  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on Personal Portfoloi
-- 🌱 I’m currently learning Full-stack development
-- 👯 I’m looking to collaborate on Web application
-- 🤔 I’m looking for help with friends
-- 💬 Ask me about ...
-- 📫 How to reach me: info@nabinsingh.me
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+### 🚀 About Me
+
+- 🔭 I'm currently working on **Skillup Labs**
+- 🌱 I'm currently learning **HTML, CSS, Javascript, React, Nodejs**
+- 👯 I'm looking to collaborate on **React, Nextjs**
+- 💬 Ask me about **JavaScript, React, Node.js, Python, APIs, or anything Full Stack**
+- ⚡ Fun fact: **[A quirky or unique fact about you]**
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend:**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+**Backend:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**Databases:**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+**DevOps & Tools:**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nabin-skilluplabs&show_icons=true&theme=github_dark" alt="nabin-skilluplabs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabin-skilluplabs&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+### 🌍 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge" />
+  </a>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- Optional fun quote or graphic -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
